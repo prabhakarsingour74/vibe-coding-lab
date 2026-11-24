@@ -6,8 +6,10 @@ This page lists projects whose individual GitHub repositories are public and rea
 
 ## Public projects
 
-| Project | Description | Status | Repository | Demo |
-|---|---|---|---|---|
-| _No public projects listed yet_ | | | | |
+
+| Project | Description | Status | Link |
+|:---|:---|:---|:---|
+| AI Engineering Superset Dashboard | AI-assisted interactive dashboard created with Google Gemini, exploring AI engineering concepts and resources | LIVE | [Explore Dashboard](https://sites.google.com/view/aiengineeringsupersetdashboard/full-page-embed) |
+
 
 To add a project, follow [the workflow](../WORKFLOW.md).
